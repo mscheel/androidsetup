@@ -9,7 +9,7 @@ Updated May 2017
 
 # 1. Get the IDE
 
-Android Studio, based on Intellij, can be downloaded from d.android.com/studio, the latest from the stable channel is what you will get when you click the big green button.
+Android Studio, based on Intellij, can be downloaded from [d.android.com/studio(d.android.com/studio), the latest from the stable channel is what you will get when you click the big green button.  Install the download.
 
 Caution, you are not done yet!
 
